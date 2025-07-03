@@ -1,2 +1,20 @@
-# E-Commerce-Store-with-Admin-Panel
-Developed a full-stack online store with cart, checkout, and Stripe-based payment system. Implemented admin dashboard with inventory control, order tracking, and sales analytics. Used Flask-Login for auth and Chart.js for monthly/yearly visual reports.
+# E-Commerce Store with Admin Panel
+
+## Setup
+
+1. Create virtual environment
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the app:
+   ```bash
+   python run.py
+   ```
+
+## Features
+- User login/register
+- Product catalog
+- Admin dashboard
+- Cart & Checkout with Stripe
+- Sales charts with Chart.js
